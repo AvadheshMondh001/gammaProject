@@ -1,0 +1,16 @@
+{
+	"First name": "Avadhesh kumar",
+	"Last name": "Jaiswal",
+	"Age": "27",
+	"Adress": [
+		"village name : Mondh Station",
+		"Zipcode : 221406",
+		"District : Bhadohi",
+		"abc"
+	],
+	"Academic Details": {
+		"Highschool": 2010,
+		"Intermediate": 2012,
+		"Graduation": 2015
+	}
+}
